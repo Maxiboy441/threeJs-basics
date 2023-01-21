@@ -15,6 +15,11 @@ First you have to install threeJs. This can be done with the command
 If this doesn't work, try it as supersuser like this
 > sudo npm install three
 
+**Install dat gui**
+Not needed, but used in that demo and definitely recommended, is dat gui. This library which allows you to easly create gui's for easyer debuging and tweaking.
+You can install it with
+> npm install dat.gui
+
 **Install parcel**
 Parcel gives you the freedom to see live in the browser what you are doing. You can install parcel in you project, or global
 For one project
@@ -25,10 +30,8 @@ global
 Again, if issues try it as super user with the prefix:
 > sudo
 
-**Install dat gui**
-Not needed, but used in that demo and definitely recommended, is dat gui. This library which allows you to easly create gui's for easyer debuging and tweaking.
-You can install it with
-> npm install dat.gui
+To start the parcel server you need this command with the path of you html (in this case ./src/index.html)
+> parcel ./src/index.html  
 
 
 I hope this short demo, and the comments, help you get into ThreeJs and have fun with it. For furter details I recommend checking the 
