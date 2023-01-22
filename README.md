@@ -27,6 +27,7 @@ You can install it with
 Parcel gives you the freedom to see live in the browser what you are doing. You can install parcel in you project, or global
 For one project
 > npm install --save-dev parcel
+
 global
 > npm install parcel -g
 
