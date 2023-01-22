@@ -9,6 +9,7 @@ easly expanded with 3D models from the Internet or even Blender.
 ## To set it up
 
 **Install threeJs**
+
 First you have to install threeJs. This can be done with the command
 > npm install three
 
@@ -16,11 +17,13 @@ If this doesn't work, try it as supersuser like this
 > sudo npm install three
 
 **Install dat gui**
+
 Not needed, but used in that demo and definitely recommended, is dat gui. This library which allows you to easly create gui's for easyer debuging and tweaking.
 You can install it with
 > npm install dat.gui
 
 **Install parcel**
+
 Parcel gives you the freedom to see live in the browser what you are doing. You can install parcel in you project, or global
 For one project
 > npm install --save-dev parcel
