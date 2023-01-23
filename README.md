@@ -49,3 +49,6 @@ https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 **For more a more advaced Project feel free to take a look an my profile to find repos like this solarsystem build with threeJs**
 
 https://github.com/Maxiboy441/ThreeJS-Solarsystem
+
+![image](https://user-images.githubusercontent.com/116082321/214004706-d540f5f6-bad6-48f0-94f8-b99da16863d3.png)
+
