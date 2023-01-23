@@ -6,6 +6,9 @@ absolut basics of ThreeJs
 ThreeJs is a library of functions to create a web renderd 3D enviroment. It has a few standard geometries and materials for objects, but can be
 easly expanded with 3D models from the Internet or even Blender.
 
+![image](https://user-images.githubusercontent.com/116082321/213998318-e6101fb8-4e81-457f-a983-acc01ec2d5f6.png)
+
+
 ## To set it up
 
 **Install threeJs**
