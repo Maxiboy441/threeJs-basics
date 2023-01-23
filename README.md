@@ -46,7 +46,7 @@ very usefull docu of ThreeJs.
 
 https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 
-### For more a more advaced Project feel free to take a look an my profile to find repos like this solarsystem build with threeJs
+## For more a more advaced Project feel free to take a look an my profile to find repos like this solarsystem build with threeJs
 
 https://github.com/Maxiboy441/ThreeJS-Solarsystem
 
